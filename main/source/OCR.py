@@ -44,3 +44,6 @@ def convert_img_to_text(image_path):
 
 image_path = "C:\\Users\\kondu\\PycharmProjects\\pythonProject\\main\\resources_page_6.png"
 convert_img_to_text(image_path)
+
+
+import pytessaract
